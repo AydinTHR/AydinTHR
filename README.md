@@ -82,4 +82,4 @@ Play-money jackpot game where every round can be verified with a commit-reveal s
   </tr>
 </table>
 
-<sub>AI / LLM: Anthropic, OpenAI, and Gemini APIs (structured outputs, tool calling, multi-agent), built with Claude Code</sub>
+<sub>AI / LLM: Anthropic, OpenAI, and Gemini APIs (structured outputs, tool calling, multi-agent)</sub>
